@@ -1,0 +1,7 @@
+organization=himens72-github
+projectKey=himens72_RISK-Game
+serverUrl=https://sonarcloud.io
+serverVersion=7.7.0.21605
+dashboardUrl=https://sonarcloud.io/dashboard?id=himens72_RISK-Game
+ceTaskId=AWi3mU8wSr1wYhq3iePW
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWi3mU8wSr1wYhq3iePW
